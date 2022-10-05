@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Connor McShane and I'm a machine learning engineer. Currently based in Dublin working on autonomous vehicle perception. Love all things AI, deeplearning and computer vision.
+My name is Connor McShane and I'm a machine learning engineer. Currently based in Dublin working on autonomous vehicle perception. I love all things AI, deeplearning and computer vision.
 
 #### Connect with me here:
 [![Website](https://img.shields.io/website?label=connormcshane.github.io&style=for-the-badge&url=https%3A%2F%2Fconnormcshane.github.io)](https://connormcshane.github.io)
